@@ -1,0 +1,11 @@
+{
+    "fecha_inicio_incidencia": "2022-10-29 00:20:00",
+    "fecha_fin_incidencia": "2022-11-2 00:00:00",
+    "diferencia_fechas_horas_max": 200,
+    "jobname": "findesemana_job",
+    "variable_name_predict": "y_an",
+    "index_data": "findesemana",
+    "elastic_user": "elastic",
+    "elastic_password": "J1FYxa7INdm3vs4EYrtpPg4i",
+    "elastic_host": "seriestemporalesanomalydetection:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQwNzU2ZTAwZTY2N2M0MjZmOGI3MDIxMWFjY2QxZjVjMCRiN2Q1YTFlMDdjZDM0OGNhYjRjNDE2MTM3ODdkNzczNw=="
+}

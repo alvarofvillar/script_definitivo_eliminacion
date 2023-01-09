@@ -1,0 +1,3 @@
+Paso 3:
+	Añadir los nuevos cambios en la ppt (en el diagrama la comprobacion, meter el nuevo input en la zona de inputs y meter la nueva funcionalidad donde se describa)
+	Hacer la descripcion completa del ppt para explicarlo

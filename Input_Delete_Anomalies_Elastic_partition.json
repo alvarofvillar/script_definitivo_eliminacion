@@ -1,0 +1,12 @@
+{
+    "fecha_inicio_incidencia": "2023-01-09 07:50:00",
+    "fecha_fin_incidencia": "2023-01-10 00:40:00",
+    "diferencia_fechas_horas_max": 48,
+    "jobname": "job_script_divide_field",
+    "variable_name_predict": "y_an",
+	"partition_field": "micro",
+    "index_data": "script_divide_field",
+    "elastic_user": "elastic",
+    "elastic_password": "J1FYxa7INdm3vs4EYrtpPg4i",
+    "elastic_host": "seriestemporalesanomalydetection:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQwNzU2ZTAwZTY2N2M0MjZmOGI3MDIxMWFjY2QxZjVjMCRiN2Q1YTFlMDdjZDM0OGNhYjRjNDE2MTM3ODdkNzczNw=="
+}
